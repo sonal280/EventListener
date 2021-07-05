@@ -37,6 +37,7 @@ class storeUserLoginHistory
             'updated_at' => $current_timestamp
         ]);
         return $savehistory;
+        
     }
 }
 
